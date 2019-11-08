@@ -1,10 +1,10 @@
-package com.todd.zookeeper.distributed;
+package com.todd.zookeeper.distributed.locks.zookeeper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DistributedLocksApplicationTests {
+class DistributedLocksZookeeperApplicationTests {
 
     @Test
     void contextLoads() {
